@@ -1,4 +1,4 @@
-## [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#/https://github.com/cpp-review-dune/dune-basics) `dune-basics` module
+## [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#/https://github.com/cpp-review-dune/henry-dune-basics) `dune-basics` module
 
 ## Usage
 
